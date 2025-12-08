@@ -11,6 +11,10 @@ There are a few things missing from this code that I think should be added:
  
 We should try to utilize RDkit more
 
+Here is the rubric: 
+- <img width="698" height="693" alt="image" src="https://github.com/user-attachments/assets/e22543b3-8f9e-4a8e-a3c4-42f8c76a34f5" />
+
+
 Carmina (or someone else), submit the jupyter notebook AND the delaney csv to Agent mode on your chatgpt, use this prompt (also attactch your jupyter notebook with all your labs so Chat can stick to your style): 
 
 ```
